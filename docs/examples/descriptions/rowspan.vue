@@ -1,7 +1,7 @@
 <template>
   <el-descriptions title="Width horizontal list" border>
     <el-descriptions-item
-      :rowspan="2"
+      :rowspan="3"
       :width="140"
       label="Photo"
       align="center"
